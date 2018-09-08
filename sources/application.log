@@ -1,0 +1,2 @@
+2018-09-08 21:35:41,190 - DEBUG - Using selector: KqueueSelector
+2018-09-08 18:45:09,232 - DEBUG - Using selector: EpollSelector
